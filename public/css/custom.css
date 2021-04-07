@@ -1,0 +1,30 @@
+.footer
+{
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+}
+
+.login_form,.signup_form,.user_list
+{
+    margin-top: 5%;
+    margin-left: 38%;
+    margin-right: 38%;
+}
+
+#upload-label {
+    position: absolute;
+    top: 50%;
+    left: 1rem;
+    transform: translateY(-50%);
+}
+
+.avatar 
+{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
